@@ -1,0 +1,8 @@
+{
+  "name": "Fiitness Espiritual",
+  "description": "A holistic platform combining physical training with spiritual growth, featuring AI-powered devotionals and a dedicated spiritual coach.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
